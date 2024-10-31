@@ -1,5 +1,5 @@
 # Curso básico de scraping
-
+#By Mudassir Alam
 En este repositorio encontrarás el código fuente del curso básico de Scraping, en el cuál a través de un ejemplo práctico, extraemos los datos de las cartas del TCG Union Arena.
 
 ## Requisitos
